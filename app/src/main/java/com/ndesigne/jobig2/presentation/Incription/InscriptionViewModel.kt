@@ -11,7 +11,7 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 
-class IncriptionViewModel(
+class InscriptionViewModel(
     private val createUserUserCase : CreateUserUseCase,
     private val getUserUseCase: GetUserUseCase
 ) : ViewModel(){

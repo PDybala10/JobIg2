@@ -1,4 +1,6 @@
 package com.ndesigne.jobig2.domain.entities
 
-data class User {
-}
+data class User (
+    val email: String
+
+)
