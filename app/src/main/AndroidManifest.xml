@@ -11,7 +11,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".ui.login.InstriptionActivity"
+            android:name=".presentation.Incription.InscriptionActivity"
             android:label="@string/title_activity_instription"></activity>
         <activity
             android:name=".presentation.main.MainActivity"

@@ -14,9 +14,9 @@ class UserRepository(
                 dataBaseDao.insert(user.toData())
         }
 
-         fun getUser(email: String): User{
+         fun getUser(email: String ): User?{
              val userRoom = dataBaseDao.findByEmail(email)
-             return userRoom.toEntity()
+             return userRoom?.toEntity()
         }
 
 }

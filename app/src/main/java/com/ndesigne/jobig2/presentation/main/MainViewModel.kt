@@ -10,6 +10,7 @@ import com.ndesigne.jobig2.domain.usecase.GetUserUseCase
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
 
 class MainViewModel(
    private val createUserUserCase : CreateUserUseCase,
@@ -17,17 +18,23 @@ class MainViewModel(
 ) : ViewModel(){
 
 
-    val counter : MutableLiveData<Int> = MutableLiveData()
+    val loginLiveData : MutableLiveData<LoginStatus> = MutableLiveData()
 
-    init {
-        counter.value = 0
-    }
 
-    fun OnclickButton(emailUser : String) {
+
+    fun OnclickButton(emailUser : String, passUser : String) {
         viewModelScope.launch(Dispatchers.IO) {
-            createUserUserCase.invoke(User(emailUser))
-            delay(1000)
-            val user: User = getUserUseCase.invoke("igor")
+
+            val user: User? = getUserUseCase.invoke(emailUser)
+            val loginStatus:LoginStatus = if(user != null && user.password==passUser){
+                LoginSucces(user.email)
+            }else{
+                LoginError
+            }
+            withContext(Dispatchers.Main) {
+                loginLiveData.value = loginStatus
+            }
         }
     }
+
 }

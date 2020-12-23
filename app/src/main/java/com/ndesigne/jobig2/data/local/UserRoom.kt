@@ -7,19 +7,22 @@ import com.ndesigne.jobig2.domain.entities.User
 
 @Entity
 data class UserRoom(
-    @ColumnInfo(name = "email") val email: String
+    @ColumnInfo(name = "email") val email: String,
+    @ColumnInfo(name = "password") val password: String
 ){
     @PrimaryKey(autoGenerate = true) var uid: Int? = null
 }
 
 fun User.toData() : UserRoom{
     return UserRoom(
-        email = email
+        email = email,
+        password = password
     )
 }
 
 fun UserRoom.toEntity() : User{
     return User(
-        email = email
+        email = email,
+        password = password
     )
 }
