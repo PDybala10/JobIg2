@@ -7,9 +7,10 @@ import androidx.core.content.res.ResourcesCompat
 import androidx.lifecycle.Observer
 import com.ndesigne.jobig2.R
 import com.ndesigne.jobig2.presentation.Incription.InscriptionActivity
+import com.ndesigne.jobig2.presentation.acceuil.AcceuilActivity
+import com.ndesigne.jobig2.presentation.offre.OffreActivity
 import kotlinx.android.synthetic.main.activity_main.*
 import org.koin.android.ext.android.inject
-import org.koin.androidx.scope.newScope
 import www.sanju.motiontoast.MotionToast
 
 class MainActivity : AppCompatActivity() {
@@ -26,6 +27,9 @@ class MainActivity : AppCompatActivity() {
                     MotionToast.GRAVITY_BOTTOM,
                     MotionToast.LONG_DURATION,
                     ResourcesCompat.getFont(this,R.font.helvetica_regular))
+
+                    val intent2 = Intent(this, AcceuilActivity::class.java)
+                    startActivity(intent2)
                 }
                    LoginError -> { MotionToast.createToast(this,"Compte inconnu",
                        MotionToast.TOAST_ERROR,
