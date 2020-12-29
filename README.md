@@ -7,7 +7,7 @@ Cette application affiche les offres d'emplois en utilisant une API de github di
 https://jobs.github.com/
 ```
 
-## Membres de l'équipe (3A-31)
+## Membres de l'équipe (4A-41)
 
 * Nde Signe Igor berenger
 
@@ -22,7 +22,7 @@ https://developer.android.com/studio/
 * Récupération de la branche master
 
 ```
-https://github.com/PDybala10/JobIg.git
+https://github.com/PDybala10/JobIg2.git
 ```
 
 ## Installation
@@ -52,25 +52,26 @@ Il suffit de faire un pull sur la branche master de notre github ci-dessus et ap
 * Affiche deux champs email et mot de passe pour se connecter si le compte n'exite pas on envoie un message d'erreur sinon on connecte l'utilisateur eil donne aussi une possibilité à l'utilisateur de créer un compte
 
 <p align="start">
-  <img src="https://github.com/PDybala10/JobIg2/tree/master/images/1.png" width="250" height="500" title="login">
-  <img src="https://github.com/PDybala10/JobIg2/tree/master/images/1.1.png" width="250" height="500" title="login">
+
+  <img src="https://github.com/PDybala10/JobIg2/tree/master/images/connec.png" width="250" height="500" title="login">
+  <img src="https://github.com/PDybala10/JobIg2/tree/master/images/connec1.png" width="250" height="500" title="login">
 </p>
 
 #### Ecran Inscription
 * Après avoir cliqué sur Register now affiche deux champs un email et mot de passe et permet de créer un nouvel utilisateur si tous les champs ne sont pas remplis erreur sinon l'utilisateur est créé
 
 <p align="start">
-  <img src="https://github.com/PDybala10/JobIg2/tree/master/images/2.png" width="250" height="500" title="inscription">
-   <img src="https://github.com/PDybala10/JobIg2/tree/master/images/2.1.png" width="250" height="500" title="inscription">
-   <img src="https://github.com/PDybala10/JobIg2/tree/master/images/2.2.png" width="250" height="500" title="inscription">
+   <img src="https://github.com/PDybala10/JobIg2/tree/master/images/ins.png" width="250" height="500" title="inscription">
+   <img src="https://github.com/PDybala10/JobIg2/tree/master/images/ins1.png" width="250" height="500" title="inscription">
+   <img src="https://github.com/PDybala10/JobIg2/tree/master/images/ins2.png" width="250" height="500" title="inscription">
 </p>
 
 #### Ecran Home
 * Affiche la liste d'offres d'emploi récupérer sur internet via une API possibilité de faire un scroll vertical donne la posibilité à l'utilisateur de revenir sur la page de connexion et aussi de voir le détail d'une offre. Si le click est effectué sur une offre l'image de l'item change
 
 <p align="start">
-  <img src="https://github.com/PDybala10/JobIg2/tree/master/images/3.png" width="250" height="500" title="home">
-   <img src="https://github.com/PDybala10/JobIg2/tree/master/images/3.1.png" width="250" height="500" title="home">
+  <img src="https://github.com/PDybala10/JobIg2/tree/master/images/off.png" width="250" height="500" title="home">
+   <img src="https://github.com/PDybala10/JobIg2/tree/master/images/off1.png" width="250" height="500" title="home">
 
 </p>
 
@@ -78,10 +79,10 @@ Il suffit de faire un pull sur la branche master de notre github ci-dessus et ap
 * Affiche le détail sur une offre et donne la possibilité à l'utilisateur de la partagée de visiter le site web de l'entreprise ou encore de postuler directement.
 
 <p align="start">
-    <img src="https://github.com/PDybala10/JobIg2/tree/master/images/4.png" width="250" height="500" title="home">
-    <img src="https://github.com/PDybala10/JobIg2/tree/master/images/4.1.png" width="250" height="500" title="home">
-    <img src="https://github.com/PDybala10/JobIg2/tree/master/images/4.2.png" width="250" height="500" title="home">
-    <img src="https://github.com/PDybala10/JobIg2/tree/master/images/4.3.png" width="250" height="500" title="home">
+    <img src="https://github.com/PDybala10/JobIg2/tree/master/images/det.png" width="250" height="500" title="home">
+    <img src="https://github.com/PDybala10/JobIg2/tree/master/images/det1.png" width="250" height="500" title="home">
+    <img src="https://github.com/PDybala10/JobIg2/tree/master/images/det2.png" width="250" height="500" title="home">
+    <img src="https://github.com/PDybala10/JobIg2/tree/master/images/det3.png" width="250" height="500" title="home">
 </p>
 
 ## Auteur
