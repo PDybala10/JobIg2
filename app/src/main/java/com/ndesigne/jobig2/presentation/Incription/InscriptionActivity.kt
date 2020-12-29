@@ -3,6 +3,7 @@ package com.ndesigne.jobig2.presentation.Incription
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.View
 import androidx.core.content.res.ResourcesCompat
 import androidx.lifecycle.Observer
 import com.ndesigne.jobig2.R
@@ -58,10 +59,11 @@ class InscriptionActivity : AppCompatActivity() {
 
            }
 
+    }
+
+    fun back(view: View) {
         val intent = Intent(this, MainActivity::class.java)
-        btnBack.setOnClickListener{
-            startActivity(intent)
-        }
+        startActivity(intent)
     }
 
 }
