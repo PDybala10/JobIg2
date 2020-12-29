@@ -53,25 +53,25 @@ Il suffit de faire un pull sur la branche master de notre github ci-dessus et ap
 
 <p align="start">
 
-  <img src="https://github.com/PDybala10/JobIg2/tree/master/images/connec.png" width="250" height="500" title="login">
-  <img src="https://github.com/PDybala10/JobIg2/tree/master/images/connec1.png" width="250" height="500" title="login">
+  <img src="https://github.com/PDybala10/JobIg2/tree/master/images/connec.png" width="250" height="500" title="connec">
+  <img src="https://github.com/PDybala10/JobIg2/tree/master/images/connec1.png" width="250" height="500" title="connec1">
 </p>
 
 #### Ecran Inscription
 * Après avoir cliqué sur Register now affiche deux champs un email et mot de passe et permet de créer un nouvel utilisateur si tous les champs ne sont pas remplis erreur sinon l'utilisateur est créé
 
 <p align="start">
-   <img src="https://github.com/PDybala10/JobIg2/tree/master/images/ins.png" width="250" height="500" title="inscription">
-   <img src="https://github.com/PDybala10/JobIg2/tree/master/images/ins1.png" width="250" height="500" title="inscription">
-   <img src="https://github.com/PDybala10/JobIg2/tree/master/images/ins2.png" width="250" height="500" title="inscription">
+   <img src="https://github.com/PDybala10/JobIg2/tree/master/images/ins.png" width="250" height="500" title="ins">
+   <img src="https://github.com/PDybala10/JobIg2/tree/master/images/ins1.png" width="250" height="500" title="ins1">
+   <img src="https://github.com/PDybala10/JobIg2/tree/master/images/ins2.png" width="250" height="500" title="ins2">
 </p>
 
 #### Ecran Home
 * Affiche la liste d'offres d'emploi récupérer sur internet via une API possibilité de faire un scroll vertical donne la posibilité à l'utilisateur de revenir sur la page de connexion et aussi de voir le détail d'une offre. Si le click est effectué sur une offre l'image de l'item change
 
 <p align="start">
-  <img src="https://github.com/PDybala10/JobIg2/tree/master/images/off.png" width="250" height="500" title="home">
-   <img src="https://github.com/PDybala10/JobIg2/tree/master/images/off1.png" width="250" height="500" title="home">
+  <img src="https://github.com/PDybala10/JobIg2/tree/master/images/off.png" width="250" height="500" title="off">
+   <img src="https://github.com/PDybala10/JobIg2/tree/master/images/off1.png" width="250" height="500" title="off1">
 
 </p>
 
@@ -79,10 +79,10 @@ Il suffit de faire un pull sur la branche master de notre github ci-dessus et ap
 * Affiche le détail sur une offre et donne la possibilité à l'utilisateur de la partagée de visiter le site web de l'entreprise ou encore de postuler directement.
 
 <p align="start">
-    <img src="https://github.com/PDybala10/JobIg2/tree/master/images/det.png" width="250" height="500" title="home">
-    <img src="https://github.com/PDybala10/JobIg2/tree/master/images/det1.png" width="250" height="500" title="home">
-    <img src="https://github.com/PDybala10/JobIg2/tree/master/images/det2.png" width="250" height="500" title="home">
-    <img src="https://github.com/PDybala10/JobIg2/tree/master/images/det3.png" width="250" height="500" title="home">
+    <img src="https://github.com/PDybala10/JobIg2/tree/master/images/det.png" width="250" height="500" title="det">
+    <img src="https://github.com/PDybala10/JobIg2/tree/master/images/det1.png" width="250" height="500" title="det1">
+    <img src="https://github.com/PDybala10/JobIg2/tree/master/images/det2.png" width="250" height="500" title="det2">
+    <img src="https://github.com/PDybala10/JobIg2/tree/master/images/det3.png" width="250" height="500" title="det3">
 </p>
 
 ## Auteur
