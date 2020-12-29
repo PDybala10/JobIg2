@@ -8,7 +8,6 @@ import com.ndesigne.jobig2.domain.entities.User
 import com.ndesigne.jobig2.domain.usecase.CreateUserUseCase
 import com.ndesigne.jobig2.domain.usecase.GetUserUseCase
 import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
 

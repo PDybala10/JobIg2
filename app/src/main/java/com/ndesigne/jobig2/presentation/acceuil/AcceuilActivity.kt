@@ -34,6 +34,7 @@ class AcceuilActivity : AppCompatActivity(), Adapter.OnItemClickListener {
         recycleView.visibility = View.GONE
         progressBar.visibility = View.VISIBLE
 
+
         acceuilViewModel.getOffres()
         acceuilViewModel.myResponse.observe(this, Observer { response ->
             if(response.isSuccessful){
@@ -70,7 +71,7 @@ class AcceuilActivity : AppCompatActivity(), Adapter.OnItemClickListener {
     }
     override fun onItemClick(position: Int) {
 
-        Toast.makeText(this, "Item $position clicked", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "Offre $position clicked", Toast.LENGTH_SHORT).show()
         val clickedItem = list[position]
         positionG = position
         clickedItem.image = R.drawable.resume
