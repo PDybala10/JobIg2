@@ -45,6 +45,7 @@ Il suffit de faire un pull sur la branche master de notre github ci-dessus et ap
 * Design
 * Nettoyage des données brute récupéré via l'api Rest pour une meilleure présentation.
 * Récupération des logos d'entreprise pour chaque offre via un lien donnée par l'API.
+* Test Unitaire
 
 ## Fonctionnalités :
 
@@ -53,8 +54,7 @@ Il suffit de faire un pull sur la branche master de notre github ci-dessus et ap
 
 <p align="start">
 
-  <img src="../images/connec.png" width="250" height="500" title="connec">
-  ![stack Overflow](https://github.com/PDybala10/JobIg2/tree/master/images/connec.png)
+  <img src="https://github.com/PDybala10/JobIg2/tree/master/images/connec.png" width="250" height="500" title="connec">
   <img src="https://github.com/PDybala10/JobIg2/tree/master/images/connec1.png" width="250" height="500" title="connec1">
 </p>
 
