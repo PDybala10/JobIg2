@@ -71,7 +71,7 @@ Il suffit de faire un pull sur la branche master de notre github ci-dessus et ap
 * Affiche la liste d'offres d'emploi récupérer sur internet via une API possibilité de faire un scroll vertical donne la posibilité à l'utilisateur de revenir sur la page de connexion et aussi de voir le détail d'une offre. Si le click est effectué sur une offre l'image de l'item change
 
 <p align="start">
-  <img src="https://github.com/PDybala10/JobIg2/blog/master/images/off.png" width="250" height="500" title="off">
+  <img src="https://github.com/PDybala10/JobIg2/blog/develop/images/off.png" width="250" height="500" title="off">
    <img src="https://github.com/PDybala10/JobIg2/tree/master/images/off1.png" width="250" height="500" title="off1">
 
 </p>
