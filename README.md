@@ -54,6 +54,7 @@ Il suffit de faire un pull sur la branche master de notre github ci-dessus et ap
 <p align="start">
 
   <img src="https://github.com/PDybala10/JobIg2/tree/master/images/connec.png" width="250" height="500" title="connec">
+  ![stack Overflow](https://github.com/PDybala10/JobIg2/tree/master/images/connec.png)
   <img src="https://github.com/PDybala10/JobIg2/tree/master/images/connec1.png" width="250" height="500" title="connec1">
 </p>
 
