@@ -85,19 +85,19 @@ Il suffit de faire un pull sur la branche master de notre github ci-dessus et ap
     <img src="https://github.com/PDybala10/JobIg2/blob/develop/images/det.png" width="250" height="500" title="det">
 </p>
 
-#### Lorqu'on appui sur le bouton Web
+#### Lorqu'on appuie sur le bouton Web
 
 <p align="start">
     <img src="https://github.com/PDybala10/JobIg2/blob/develop/images/det1.png" width="250" height="500" title="det1">
 </p>
 
-#### Lorsqu'on appui sur le bouton Share
+#### Lorsqu'on appuie sur le bouton Share
 
 <p align="start">
     <img src="https://github.com/PDybala10/JobIg2/blob/develop/images/det2.png" width="250" height="500" title="det2">
 </p>
 
-#### Lorqu'on appui sur le bouton valid ici l'offfre ne nou permet pas de postuler directement
+#### Lorsqu'on appuie sur le bouton valid ici l'offre ne nous permet pas de postuler directement
 
 <p align="start">
     <img src="https://github.com/PDybala10/JobIg2/blob/develop/images/det3.png" width="250" height="500" title="det3">
